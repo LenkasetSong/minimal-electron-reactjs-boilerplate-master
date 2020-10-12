@@ -26,9 +26,9 @@ This template does not open the dev tool on starting. You can press Cmd+Option+I
 
 # mix tool
 
-1.全局安装 asar
-　　npm install asar -g
-　　安装完asar以后,就可以使用asar命令将程序文件打包了。
-2.在resources目录下使用asar指令进行加密
+1.全局安装 asar  
+　　npm install asar -g  
+　　安装完asar以后,就可以使用asar命令将程序文件打包了。  
+2.在resources目录下使用asar指令进行加密  
 　　asar pack ./app app.asar  
 3.将原来的app文件夹删除  
